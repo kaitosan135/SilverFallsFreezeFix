@@ -1,3 +1,5 @@
+DISCLAIMER: Made with Grok AI.
+
 # SilverFallsFreezeFix
 
 Aroma/WUPS plugin that acts as a failsafe for Silver Falls games on Wii U.
