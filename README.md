@@ -9,7 +9,7 @@ When a Silver Falls game soft-freezes (visuals frozen, audio continues, system l
 ## Supported titles
 - `000500001021D000` – Undertakers
 - `000500001021D300` – White Inside Its Umbra
-- `000500001021DD00` – Ghoul Busters
+- `000500001021DD00` – Ghoul Busters (unreleased WUP)
 
 ## How it works
 - Hooks `GX2SwapScanBuffers` and updates a timestamp on every frame.
